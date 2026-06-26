@@ -21,12 +21,7 @@ class AboutActivity : AppCompatActivity() {
         val tvNama: TextView = findViewById(R.id.tvNamaProfil)
         val tvEmail: TextView = findViewById(R.id.tvEmailProfil)
 
-        tvNama.text = "Nama Lengkap Anda"
-        tvEmail.text = "email_dicoding_anda@example.com"
-
-        // Foto profil sementara menggunakan ic_person (vector).
-        // Kamu bisa menggantinya dengan foto asli:
-        // 1. Copy file foto (misal: foto_profil.jpg) ke folder res/drawable
-        // 2. Ganti src ImageView di activity_about.xml -> android:src="@drawable/foto_profil"
+        tvNama.text = "Edwin KUrniawan Eka Julianda"
+        tvEmail.text = "edwinkurniawan9326@gmail.com"
     }
 }
