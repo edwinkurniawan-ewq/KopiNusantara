@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kopi Nusantara</string>
+    <string name="detail_title">Detail Kopi</string>
+    <string name="about_title">Tentang Saya</string>
+    <string name="menu_about">Tentang</string>
+    <string name="label_asal">Asal Daerah</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="content_desc_item">Gambar item kopi</string>
+    <string name="content_desc_foto_profil">Foto profil</string>
+</resources>

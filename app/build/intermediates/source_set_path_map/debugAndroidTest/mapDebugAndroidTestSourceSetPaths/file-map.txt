@@ -1,0 +1,5 @@
+com.dicoding.kopinusantara.test.app-androidTest-0 C:\projek dicoding\KopiNusantara\app\build\generated\res\resValues\androidTest\debug
+com.dicoding.kopinusantara.test.app-updated_navigation_xml-1 C:\projek dicoding\KopiNusantara\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.dicoding.kopinusantara.test.app-mergeDebugAndroidTestResources-2 C:\projek dicoding\KopiNusantara\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.dicoding.kopinusantara.test.app-mergeDebugAndroidTestResources-3 C:\projek dicoding\KopiNusantara\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.dicoding.kopinusantara.test.app-debugAndroidTest-4 C:\projek dicoding\KopiNusantara\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

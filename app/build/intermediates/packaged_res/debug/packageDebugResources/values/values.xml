@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="coffee_accent">#C68958</color>
+    <color name="coffee_cream">#FFF3E0</color>
+    <color name="coffee_dark">#3E2723</color>
+    <color name="coffee_primary">#6F4E37</color>
+    <color name="coffee_primary_variant">#4E342E</color>
+    <color name="coffee_text_secondary">#6D4C41</color>
+    <color name="coffee_white">#FFFFFF</color>
+    <color name="region_1">#8D6E63</color>
+    <color name="region_10">#6F4E37</color>
+    <color name="region_11">#9C6B45</color>
+    <color name="region_12">#7B4B2A</color>
+    <color name="region_2">#A1887F</color>
+    <color name="region_3">#6D4C41</color>
+    <color name="region_4">#5D4037</color>
+    <color name="region_5">#795548</color>
+    <color name="region_6">#4E342E</color>
+    <color name="region_7">#BF8A5C</color>
+    <color name="region_8">#A0723C</color>
+    <color name="region_9">#8C5E3C</color>
+    <string name="about_title">Tentang Saya</string>
+    <string name="app_name">Kopi Nusantara</string>
+    <string name="content_desc_foto_profil">Foto profil</string>
+    <string name="content_desc_item">Gambar item kopi</string>
+    <string name="detail_title">Detail Kopi</string>
+    <string name="label_asal">Asal Daerah</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="menu_about">Tentang</string>
+    <style name="Theme.KopiNusantara" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/coffee_primary</item>
+        <item name="colorPrimaryVariant">@color/coffee_primary_variant</item>
+        <item name="colorOnPrimary">@color/coffee_white</item>
+        <item name="colorSecondary">@color/coffee_accent</item>
+        <item name="colorSecondaryVariant">@color/coffee_accent</item>
+        <item name="colorOnSecondary">@color/coffee_dark</item>
+        <item name="android:statusBarColor" ns1:targetApi="21">@color/coffee_primary_variant</item>
+        <item name="android:windowBackground">@color/coffee_cream</item>
+    </style>
+    <style name="Toolbar.KopiNusantara" parent="Widget.MaterialComponents.Toolbar.Primary"/>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <color name="coffee_dark">#3E2723</color>
+    <color name="coffee_primary">#6F4E37</color>
+    <color name="coffee_primary_variant">#4E342E</color>
+    <color name="coffee_accent">#C68958</color>
+    <color name="coffee_cream">#FFF3E0</color>
+    <color name="coffee_white">#FFFFFF</color>
+    <color name="coffee_text_secondary">#6D4C41</color>
+
+    <color name="region_1">#8D6E63</color>
+    <color name="region_2">#A1887F</color>
+    <color name="region_3">#6D4C41</color>
+    <color name="region_4">#5D4037</color>
+    <color name="region_5">#795548</color>
+    <color name="region_6">#4E342E</color>
+    <color name="region_7">#BF8A5C</color>
+    <color name="region_8">#A0723C</color>
+    <color name="region_9">#8C5E3C</color>
+    <color name="region_10">#6F4E37</color>
+    <color name="region_11">#9C6B45</color>
+    <color name="region_12">#7B4B2A</color>
+</resources>

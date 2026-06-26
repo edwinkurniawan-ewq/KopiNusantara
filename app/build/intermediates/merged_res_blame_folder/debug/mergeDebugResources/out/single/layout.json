@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.dicoding.kopinusantara.app-mergeDebugResources-31:/layout/item_kopi.xml",
+        "source": "com.dicoding.kopinusantara.app-main-34:/layout/item_kopi.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-mergeDebugResources-31:/layout/activity_about.xml",
+        "source": "com.dicoding.kopinusantara.app-main-34:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.dicoding.kopinusantara.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-mergeDebugResources-31:/layout/activity_detail.xml",
+        "source": "com.dicoding.kopinusantara.app-main-34:/layout/activity_detail.xml"
+    }
+]

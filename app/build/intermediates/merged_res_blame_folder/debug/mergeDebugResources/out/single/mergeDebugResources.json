@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/layout_activity_about.xml.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_sidikalang.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_sidikalang.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_ic_person.xml.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_kintamani.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_kintamani.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_toraja.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_toraja.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_mandailing.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_mandailing.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_gayo.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_gayo.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_wamena.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_wamena.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_banyuwangi.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_banyuwangi.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_ic_launcher.xml.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_meranti.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_meranti.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/layout_activity_detail.xml.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_pagaralam.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_pagaralam.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/menu_menu_main.xml.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_lampung.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_lampung.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_foto_profil.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/foto_profil.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/layout_item_kopi.xml.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/layout/item_kopi.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_ic_coffee_large.xml.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/ic_coffee_large.xml"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_preanger.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_preanger.jpg"
+    },
+    {
+        "merged": "com.dicoding.kopinusantara.app-debug-32:/drawable_kopi_bajawa.jpg.flat",
+        "source": "com.dicoding.kopinusantara.app-main-34:/drawable/kopi_bajawa.jpg"
+    }
+]
